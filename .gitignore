@@ -1,0 +1,17 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Output directories
+intel/
+repos/
+
+# OS
+.DS_Store
